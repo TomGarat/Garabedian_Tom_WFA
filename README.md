@@ -12,8 +12,6 @@ Affichage du score et du meilleur score
 Langage de programmation : C#
 IDE : Visual Studio
 Autres outils : .NET Framework, Windows Forms
-🛠️ Installation et Utilisation
-(Insérez ici les étapes d'installation et d'utilisation.)
 
 🤔 Difficultés rencontrées
 L'une des principales difficultés rencontrées lors de la réalisation de ce projet a été le manque de connaissances initiales. Bien que le tutoriel ait été une ressource précieuse, l'ajout de fonctionnalités supplémentaires nécessitait une exploration et une expérimentation supplémentaires.
@@ -21,4 +19,4 @@ L'une des principales difficultés rencontrées lors de la réalisation de ce pr
 👥 Contributeurs
 Tom Garabedian - Concepteur principal et développeur
 📚 Ressources
-Tutoriel YouTube de base (À remplacer par le véritable lien du tutoriel)
+Tutoriel YouTube de base
